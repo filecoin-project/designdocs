@@ -3,7 +3,9 @@ This README is an index of design docs for important components and changes, as 
 
 ### Design Docs
 _Newest to oldest_
-* Coming soon
+* [Message Tracking]() - Mar 2019
+* [Outbound Message Queue]() - Mar 2019
+* [Porcelain/Plumbing Plan]() - Feb 2019
 <!--
 * [meta] [Design Docs: What are they and how we use them](https://github.com/filecoin-project/designdocs-internal/blob/master/designdocs.md) - Aug 2018
 -->
