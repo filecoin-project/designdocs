@@ -1,15 +1,15 @@
 # Design Docs: What are they and how we use them 
-Author: @phritz | Date: August 2018
+**Author:** @phritz | **Date:** August 2018
 
 ## Table of Contents
-* Goal
-* Problem Statement
-* Proposal
-* What is a designdoc?
-* Benefits
-* What is a designdoc not?
-* Alternatives
-* FAQ
+* [Goal](#goal)
+* [Problem Statement](#problem-statement)
+* [Proposal](#proposal)
+* [What is a designdoc?](#what-is-a-designdoc)
+* [Benefits](#benefits)
+* [What is a designdoc not?](#what-is-a-designdoc-not)
+* [Alternatives](#alternatives)
+* [FAQ](#faq)
 
 ## Goal
 
