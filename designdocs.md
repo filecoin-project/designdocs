@@ -9,6 +9,7 @@
 * [Benefits](#benefits)
 * [What is a designdoc not?](#what-is-a-designdoc-not)
 * [Alternatives](#alternatives)
+* [Design Doc Process](#design-doc-process)
 * [FAQ](#faq)
 
 ## Goal
@@ -78,6 +79,19 @@ Obviously, we need specs too. But they often come later in the lifecycle, and ar
 ##### Github issues.
 
 We could capture a designdoc in a github issue, and this may in fact be a good convention. But a typical issue or bug has different content than what goes into a designdoc and sometimes you don’t want to parse all the discussion, you just want the conclusion.
+
+## Design Doc Process
+* Create new docs in the `Filecoin Community` > `Design Docs` folder.
+  * Check that you're using the GApps identity
+  * Use `DRAFT`, `IN REVIEW`, `ACCEPTED` to note status.
+* When you're ready, enable sharing for public comment
+  * Click "Share" button
+  * Click "Who has access" to open the advanced settings panel
+  * Choose "Anyone with the link can *comment*" from dropdown
+  * Check the checkbox for "Allow external access"
+* Add an entry in this repo's README
+* Solicit feedback from individuals and/or channels, evolving the design as needed.
+* Once ready, translate into GitHub epics or issues.
 
 ## FAQ
 
