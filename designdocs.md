@@ -36,7 +36,7 @@ A designdoc is a short document clearly articulating a problem, a solution to th
 - **Proposal & Rationale**: a sketch of the thing and most importantly why this thing and not something else. What do we gain if we do this, what do we lose if we do not?
 - **Alternatives**: what are we not doing and why not?
 
-An example of a designdoc is [Structured Storage in Filecoin](https://docs.google.com/document/d/1Xp-ba2TaWc750J6Tp22CxZL-NiZ45J_qIx11eT8vu8A/edit#). Also *this* document that you are currently reading is also a designdoc, for a part of our development process.
+An example of a designdoc is [Message Tracking](https://docs.google.com/document/u/2/d/1Ofoid90l9JwyW8zUy00kaHdvpLoV4gr2mcN3s4irkPY/edit?usp=drive_web&ouid=117191042581679083795). Also *this* document that you are currently reading is also a designdoc, for a part of our development process.
 
 The most important thing a designdoc does is capture *design intent*. It shouldn't just state the solution to the problem, it should present a solution along with the reasoning that went into why that solution and not something else. It should capture the constraints, considerations, and implications of the solution. 
 
