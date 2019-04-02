@@ -1,5 +1,5 @@
 # Design Docs
-This README is an index of design docs for important components and changes, as well as notes, thoughts, and discussions that don't fit anywhere else yet.
+This README is an index of [design docs](designdocs.md) for important components and changes, as well as notes, thoughts, and discussions that don't fit anywhere else yet.
 
 ### Design Docs
 _Newest to oldest_
