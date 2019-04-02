@@ -14,6 +14,7 @@ _Explainer talks or demos._
 
 ### Other Writeups & Notes
 _Other writeups or less-edited notes from discussions & meetings_
+* [Are We Speced Yet?](https://docs.google.com/spreadsheets/d/1zh7Ys6Tr0y4nLsR9d9e28Q0pYNBvclmcgHU3yuwMhSI/edit?usp=sharing)
 
 ### Contributing to this repo
 We play fast and loose in this here `designdocs` repo, but not recklessly.
