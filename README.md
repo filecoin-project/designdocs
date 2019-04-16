@@ -4,6 +4,7 @@ This README is an index of [design docs](designdocs.md) for important components
 ### Design Docs
 _Newest to oldest_
 
+* [Storage Protocol Resolution](https://docs.google.com/document/d/1TtuhA5zJYy8pJ3pMVNIbYY2LUutoMCxf-YaZ0VvQyiY/edit)
 * [Model for change: Filesystem repo migrations](https://docs.google
 .com/document/d/1THzh1mrNCKYbdk1zP72xV8pfr1yQBe2n3ptrSAYyVI8/edit?usp=sharing) (In review) - April 2019
 * [Outbound Message Queue](https://docs.google.com/document/d/1Ns5_ushX9exsKr0xbc2Kt0ZHzAA0WnVvl42hyGRR5l0/edit) - March 2019
