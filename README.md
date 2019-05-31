@@ -6,6 +6,7 @@ See [Design Docs: What are they and how we use them](designdocs.md).
 ## Design Docs
 _Newest to oldest_
 
+* [SectorSet and Bitfield Implementation Plan](https://docs.google.com/document/d/1aE5a-QZojprMkig6IyYkwV1SrMDDLOnNBqNdnwpu9tk/edit?usp=sharing)
 * [Model for change: Filesystem repo migrations](https://docs.google.com/document/d/1THzh1mrNCKYbdk1zP72xV8pfr1yQBe2n3ptrSAYyVI8/edit?usp=sharing) - April 2019
 * [Slashing Mechanism](https://docs.google.com/document/d/1AdzZPGNZJSOC5dzr4aiYqgIpC8tS3tG876Q6VkuNW5c/edit#) - March 2019
 * [Outbound Message Queue](https://docs.google.com/document/d/1Ns5_ushX9exsKr0xbc2Kt0ZHzAA0WnVvl42hyGRR5l0/edit) - March 2019
