@@ -8,7 +8,7 @@ _Newest to oldest_
 
 * [SectorSet and Bitfield Implementation Plan](https://docs.google.com/document/d/1aE5a-QZojprMkig6IyYkwV1SrMDDLOnNBqNdnwpu9tk/edit?usp=sharing)
 * [Model for change: Filesystem repo migrations](https://docs.google.com/document/d/1THzh1mrNCKYbdk1zP72xV8pfr1yQBe2n3ptrSAYyVI8/edit?usp=sharing) - April 2019
-* [Slashing Mechanism](https://docs.google.com/document/d/1AdzZPGNZJSOC5dzr4aiYqgIpC8tS3tG876Q6VkuNW5c/edit#) - March 2019
+* [Slashing Mechanism](https://docs.google.com/document/d/1bGjNI4wItBWgH5SOxpLNFF3ij85CRKG_uRVSbI7yLS4/edit#heading=h.2xtbr35i3dx3) - March 2019
 * [Outbound Message Queue](https://docs.google.com/document/d/1Ns5_ushX9exsKr0xbc2Kt0ZHzAA0WnVvl42hyGRR5l0/edit) - March 2019
 * [Message Tracking](https://docs.google.com/document/u/2/d/1Ofoid90l9JwyW8zUy00kaHdvpLoV4gr2mcN3s4irkPY/edit?usp=drive_web&ouid=117191042581679083795) - Feb 2019
 * [Porcelain/Plumbing Refactor Plan](https://docs.google.com/document/u/2/d/1L5hbcDGhfH3AlMti4RQ3Zke6nc4-eGOmk9lD0nNoiEs/edit?usp=drive_web&ouid=117191042581679083795) - Feb 2019
