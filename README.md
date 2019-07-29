@@ -6,6 +6,7 @@ See [Design Docs: What are they and how we use them](designdocs.md).
 ## Design Docs
 _Newest to oldest_
 
+* [Separating Messages from Block](https://docs.google.com/document/d/1xOHUeM-svZoE3qQtOPCx1U96EQ6CuKsfB2GJYOHOk18/edit?usp=sharing) July 2019
 * [Faults & Slashing implementation](https://docs.google.com/document/d/1U3b9GVNVOLoS_-q9kXU3a9dqHGvcrHprwDFzNYgLI0M/edit#) - June 2019
 * [SectorSet and Bitfield Implementation Plan](https://docs.google.com/document/d/1aE5a-QZojprMkig6IyYkwV1SrMDDLOnNBqNdnwpu9tk/edit?usp=sharing) - June 2019
 * [Model for change: Filesystem repo migrations](https://docs.google.com/document/d/1THzh1mrNCKYbdk1zP72xV8pfr1yQBe2n3ptrSAYyVI8/edit?usp=sharing) - April 2019
