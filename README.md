@@ -23,7 +23,7 @@ _Explainer talks or demos._
 _Other writeups or less-edited notes from discussions & meetings_
 * [Are We Speced Yet?](https://docs.google.com/spreadsheets/d/1zh7Ys6Tr0y4nLsR9d9e28Q0pYNBvclmcgHU3yuwMhSI/edit?usp=sharing)
 
-## Process
+## How to Create New Design Docs
 We follow a process to ensure that new design docs are accessible and communicated widely.
 * Create a GitHub issue for the design doc in the appropriate repository (e.g. [go-filecoin](https://github.com/filecoin-project/go-filecoin), [consensus](https://github.com/filecoin-project/consensus)).
 * Create a new Google doc in the `Filecoin Community` team drive, `Design Docs` folder.
@@ -33,9 +33,9 @@ We follow a process to ensure that new design docs are accessible and communicat
   * Click "Share" button.
   * Click "Who has access" to open the advanced settings panel.
   * Toggle on "Link sharing".
-  * Choose "People at Filecoin with the link can *comment*" from dropdown.
-  * Check the checkbox for "Allow external access".
-* Add an entry with shareable link in this README's list of design docs, thus making the document public (pull request not necessary).
+  * Choose who: "Anyone with the link".
+  * In the dropdown after "Access", select "Can comment".
+* Add an entry with shareable link in this README's list of design docs, thus making the document public (you can commit directly).
 * Email a link to the `dev@filecoin.org` email list, which will reach all committers. 
 Also announce in `#fil-dev` or other appropriate channel the filecoin-project Slack.
   * This email thread will function as a low-noise channel for high-level discussion of the proposal.
