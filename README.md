@@ -6,6 +6,10 @@ See [Design Docs: What are they and how we use them](designdocs.md).
 ## Design Docs
 _Newest to oldest_
 
+* [Go-filecoin code layout](https://docs.google.com/document/d/15P3laXxXSUR_FKcqkhzyrvcJNOQFV_JBJ4go4zPo714/edit#) - September 2019
+* [JSON REST API Rationale and Plan](https://docs.google.com/document/d/1ANnTHOU-8612ayvvS7Ru4B1L4voojLE0R0TQ8zF1x5s/edit#) - Aug 2019
+* [Protocol Upgrade Table](https://docs.google.com/document/d/17VsfFQk1mZKJj9gkXgSzIPWZAcVeL7VyNjP-is576e4/edit#) - July 2019
+* [Hello Protocol and Protocol Versions](https://docs.google.com/document/d/1w8ki-7EGaqk41Vbjn4tHLeEVQIjhIzHOCcPXiT8mLRM/edit#) - July 2019
 * [Separating Messages from Block](https://docs.google.com/document/d/1xOHUeM-svZoE3qQtOPCx1U96EQ6CuKsfB2GJYOHOk18/edit?usp=sharing) July 2019
 * [Faults & Slashing implementation](https://docs.google.com/document/d/1U3b9GVNVOLoS_-q9kXU3a9dqHGvcrHprwDFzNYgLI0M/edit#) - June 2019
 * [SectorSet and Bitfield Implementation Plan](https://docs.google.com/document/d/1aE5a-QZojprMkig6IyYkwV1SrMDDLOnNBqNdnwpu9tk/edit?usp=sharing) - June 2019
@@ -14,7 +18,6 @@ _Newest to oldest_
 * [Outbound Message Queue](https://docs.google.com/document/d/1Ns5_ushX9exsKr0xbc2Kt0ZHzAA0WnVvl42hyGRR5l0/edit) - March 2019
 * [Message Tracking](https://docs.google.com/document/u/2/d/1Ofoid90l9JwyW8zUy00kaHdvpLoV4gr2mcN3s4irkPY/edit?usp=drive_web&ouid=117191042581679083795) - Feb 2019
 * [Porcelain/Plumbing Refactor Plan](https://docs.google.com/document/u/2/d/1L5hbcDGhfH3AlMti4RQ3Zke6nc4-eGOmk9lD0nNoiEs/edit?usp=drive_web&ouid=117191042581679083795) - Feb 2019
-* [JSON REST API Rationale and Plan](https://docs.google.com/document/d/1ANnTHOU-8612ayvvS7Ru4B1L4voojLE0R0TQ8zF1x5s/edit#) - Aug 2019
 * [meta] [Design Docs: What are they and how we use them](https://github.com/filecoin-project/designdocs/blob/master/designdocs.md) - Aug 2018
 
 ### Video Recordings
