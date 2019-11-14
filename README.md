@@ -6,6 +6,7 @@ See [Design Docs: What are they and how we use them](designdocs.md).
 ## Design Docs
 _Newest to oldest_
 
+* [Filecoin Chain-Validation Tools](https://docs.google.com/document/d/1o0ODvpKdWsYMK_KmK-j-uPxYei6CZAZ4n_3ilQJPn4A/edit?usp=sharing) - November 2019
 * [Filecoin component architecture](https://docs.google.com/document/d/1ukPD8j6plLEbbzUjxfo7eCauIrOeC_tqxqYK_ls9xbc/edit#) - October 2019
 * [Go-filecoin code layout](https://docs.google.com/document/d/15P3laXxXSUR_FKcqkhzyrvcJNOQFV_JBJ4go4zPo714/edit#) - September 2019
 * [JSON REST API Rationale and Plan](https://docs.google.com/document/d/1ANnTHOU-8612ayvvS7Ru4B1L4voojLE0R0TQ8zF1x5s/edit#) - Aug 2019
